@@ -11,12 +11,11 @@ File_Organizer is a Python script for organizing your files into categorized fol
 - Simple to use with an intuitive command-line interface.
 
 ## Usage:
-```markdown
-| Step                      | Command                                    |
-|---------------------------|--------------------------------------------|
-| 1. Clone the repository  | `git clone https://github.com/gnit24/File_Organizer.git` |
-| 2. Navigate to the project directory | `cd File_Organizer`                        |
-| 3. Run the script         | `python organize.py`                       |
+| Step                                | Command                                                |
+|-------------------------------------|--------------------------------------------------------|
+| 1. Clone the repository            | `git clone https://github.com/gnit24/File_Organizer.git` |
+| 2. Navigate to the project directory | `cd File_Organizer`                                    |
+| 3. Run the script                   | `python organize.py`                                   |
 
 &nbsp;
 &nbsp;
